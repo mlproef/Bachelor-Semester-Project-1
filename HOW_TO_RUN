@@ -18,6 +18,23 @@
 - OpenAI account + your API key
 
 1. Clone the repository:
->git clone https://github.com/mlproef/bspproject1
+
+git clone https://github.com/mlproef/bspproject1
 cd bspproject1
+
+2. Set up dependencies:
+
+pip install -r requirements.txt
+
+3. Create an .env file:
+
+OPENAI_API_KEY=your-openai-key
+
+4. Start the program:
+
+python app.py
+
+After launching, the Gradio interface will open at the following address: http://localhost:7860
+
+
 
