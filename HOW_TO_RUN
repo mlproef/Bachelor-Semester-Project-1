@@ -18,5 +18,6 @@
 - OpenAI account + your API key
 
 1. Clone the repository:
-git clone https://github.com/mlproef/bspproject1
+>git clone https://github.com/mlproef/bspproject1
 cd bspproject1
+
