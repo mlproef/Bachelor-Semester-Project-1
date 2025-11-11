@@ -106,7 +106,8 @@ These rules help to avoid:
 5. ### Interface
 The project uses Gradio to work via the web.
 
-<img width="1470" height="836" alt="Image" src="https://github.com/user-attachments/assets/cad7fda6-57a0-4250-84d5-1882a0ddd7ed" />
+<img width="1425" height="719" alt="Снимок экрана 2025-11-11 в 16 09 19" src="https://github.com/user-attachments/assets/0821a510-55fc-47d9-a87c-6977a4ba2661" />
+
 
  6. ### Conclusion 
  
